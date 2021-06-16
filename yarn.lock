@@ -715,11 +715,6 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@kennethormandy/variablefont.js@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@kennethormandy/variablefont.js/-/variablefont.js-0.1.0.tgz#ad63c7b4f19b78609c19f51e15c925be2bc6559b"
-  integrity sha1-rWPHtPGbeGCcGfUeFcklvivGVZs=
-
 "@nuxt/babel-preset-app@2.11.0":
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/@nuxt/babel-preset-app/-/babel-preset-app-2.11.0.tgz#e89fdb7ef5c08dce13532ccf63a7064399f67ab0"
@@ -6506,9 +6501,9 @@ postcss-values-parser@^2.0.0, postcss-values-parser@^2.0.1:
     uniq "^1.0.1"
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.23, postcss@^7.0.25, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.26"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.26.tgz#5ed615cfcab35ba9bbb82414a4fa88ea10429587"
-  integrity sha512-IY4oRjpXWYshuTDFxMVkJDtWIk2LhsTlu8bZnbEJA4+bYT16Lvpo8Qv6EvDumhYRgzjZl489pmsY3qVgJQ08nA==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
